@@ -1,0 +1,8 @@
+D:\SQL Server\day9\Assignment9\Assignment9\bin\Debug\Assignment9.exe.config
+D:\SQL Server\day9\Assignment9\Assignment9\bin\Debug\Assignment9.exe
+D:\SQL Server\day9\Assignment9\Assignment9\bin\Debug\Assignment9.pdb
+D:\SQL Server\day9\Assignment9\Assignment9\obj\Debug\Assignment9.csproj.AssemblyReference.cache
+D:\SQL Server\day9\Assignment9\Assignment9\obj\Debug\Assignment9.csproj.SuggestedBindingRedirects.cache
+D:\SQL Server\day9\Assignment9\Assignment9\obj\Debug\Assignment9.csproj.CoreCompileInputs.cache
+D:\SQL Server\day9\Assignment9\Assignment9\obj\Debug\Assignment9.exe
+D:\SQL Server\day9\Assignment9\Assignment9\obj\Debug\Assignment9.pdb
